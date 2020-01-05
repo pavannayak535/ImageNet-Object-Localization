@@ -1,1 +1,1 @@
-# ImageNet-Object-Localization
+# ImageNet Object Localization Challenge
